@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -21,5 +22,12 @@ function App() {
     </div>
   );
 }
+=======
+import Form from "./components/Form";
+
+const App = () => {
+  return <Form />;
+};
+>>>>>>> 7ad25161b99ae028389ea0a55cc686214c44f7fb
 
 export default App;
